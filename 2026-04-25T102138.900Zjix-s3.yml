@@ -1,0 +1,5 @@
+Resources: 
+  mybuck:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: "my-s3-bucket-using-formation2345676543"
